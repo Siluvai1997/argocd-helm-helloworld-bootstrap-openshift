@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hello-world
+  annotations:
+    openshift.io/display-name: "Hello World Project"
+    openshift.io/description: "Namespace for Hello World Application deployment via ArgoCD and Helm"
+    openshift.io/requester: "ArgoCD-bootstrap"
+    managed-by: "ArgoCD"
