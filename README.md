@@ -68,5 +68,8 @@ oc get route -n hello-world
 
 This project has been tested on OpenShift 4.x clusters.
 
-#### Feel free to fork and customize it for your own needs!
+## Architecture
+![Architecture Diagram](./Architectural-Flow-chart.png)
+
+##### Feel free to fork and customize it for your own needs!
 ---
