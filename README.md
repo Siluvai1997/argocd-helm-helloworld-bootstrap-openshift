@@ -68,5 +68,5 @@ oc get route -n hello-world
 
 This project has been tested on OpenShift 4.x clusters.
 
-Feel free to fork and customize it for your own needs!
+#### Feel free to fork and customize it for your own needs!
 ---
