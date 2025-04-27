@@ -58,12 +58,6 @@ oc get pods -n hello-world
 ```bash
 oc get route -n hello-world
 ```
-
-### 2. Verify PersistentVolumeClaim (PVC)
-
-```bash
-oc get pvc -n hello-world
-```
 - Open the URL listed under HOST/PORT in your browser.
 - You should see the default Nginx Welcome Page.
 
